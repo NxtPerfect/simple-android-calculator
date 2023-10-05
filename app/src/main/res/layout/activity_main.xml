@@ -21,9 +21,9 @@
         android:text="I'll change you"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintTop_toBottomOf="@+id/text"
-        app:layout_constraintLeft_toLeftOf="@+id/text"
-        app:layout_constraintRight_toRightOf="@+id/text"
+        app:layout_constraintTop_toBottomOf="@+id/text_to_change"
+        app:layout_constraintLeft_toLeftOf="@+id/text_to_change"
+        app:layout_constraintRight_toRightOf="@+id/text_to_change"
         android:layout_marginTop="10dp"
         />
 
